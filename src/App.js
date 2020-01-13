@@ -5,7 +5,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import Nav from  './components/nav/Nav'
 import { Route } from 'react-router-dom';
 import Home from './components/home/Home';
-
+import Exper from './components/experience/Exper'
+import Parks from './components/parks/Parks'
 
 function App() {
   return (
