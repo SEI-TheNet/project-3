@@ -1,6 +1,5 @@
 import React from 'react';
 // import logo from './logo.svg';
-import Exper from "./components/experience/Exper"
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Nav from  './components/nav/Nav'
