@@ -5,10 +5,8 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-   <div> hi the net it's zozo </div>
-
-    hello I am salman I am not salman
- master
+  
+  
     </div>
   );
 }
