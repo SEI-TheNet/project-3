@@ -12,8 +12,8 @@ const Nave = () => {
   <Navbar.Brand to="/">Home</Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
-  <Nav.Link to="/parks">Parks</Nav.Link>
-  <Nav.Link eventKey="/experiences">Experiences</Nav.Link>
+  <Nav.Link to="/Parks">Parks</Nav.Link>
+  <Nav.Link eventKey="/Exper">Experiences</Nav.Link>
 
   </Navbar.Collapse>
 </Navbar>

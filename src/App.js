@@ -19,12 +19,12 @@ function App() {
          return(
           <h1>Hello i am one Park </h1>
          ) }} />
-         <Route exact path='/Parks/:id/land'/> render={()=> {
+         <Route exact path='/Parks/:id/land' render={()=> {
            return (
             <h1>Hello i am lands </h1> )
          }}/>
 
-         <Route exact path='/Parks/:id/land/:id'/> render={()=> {
+         <Route exact path='/Parks/:id/land/:id' render={()=> {
            return (
             <h1>Hello i am one land </h1> )
          }}/> 
